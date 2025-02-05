@@ -1,1 +1,1 @@
-# Java-Internship-technohacks
+# Java-Basic-Projects
